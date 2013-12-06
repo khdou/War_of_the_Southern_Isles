@@ -1,0 +1,72 @@
+Version 5.0
+
+-Made all variables local
+-Added .range and .class to units
+-Fixed Archer bug
+-Formula for isAttackable optimized
+-Added showAttack
+-Added 2-1-2-2-1-2 movesets
+-Changed move highlighting
+-Changed Archer art
+
+Version 6.0
+
+-Added victory screen
+-Added Cavalry unit
+-Changed Victory conditions
+-Optimized unit count
+-Added in Board Setup
+-Movement changed to player = 0 not unit = "empty"
+-Added random rotating music
+-Music loops
+
+Version 7.0
+
+-Added Exorcist
+-Added Monk
+-Added Bow Cavalry
+-Added Yari Cavalry
+-Added Assassin
+-Added Round Counter
+
+Version 10.0
+-Added new music
+-Menu music shuffles and loops
+
+Version 11.0
+-Added Yokai
+-Yokai level up at level 3
+-Adjusted Icons for Exhaust
+-Added Experience Levels (+5% per kill)
+-Monks heal a level of exhaustion
+-Add 10 hp when lvling up
+-Added Castle HP
+
+Version 12.0
+-Added build units
+-Units cost 100 funds
+-Get 200 funds per day
+-Added Win state
+-Removed 10 HP + 120 total HP when lvling up
+-Added Barracks
+
+Version 13.0
+-Easier UI when building units
+-Tweaked dmg chart
+-Removed Monk healing exhaust
+-Removed limit on turns
+-Changed map
+-Added Farms
+-Attached funding to farms (25g)
+v13.1
+-Added Adjustable unit costs
+-Added in Sprites
+
+Version 14.0
+-Added Map scrolling
+-Added province tile
+-Added adjustable income
+
+Version 15.0
+-Added Altitudes
+-Altitude combat formula same as exp.

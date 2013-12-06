@@ -1,0 +1,30 @@
+--Game speed was moving very slowly. 8 moves per turn, and 2 units being built per turn, 
+  it was impossible to "win" because units were literally coming out faster than they could die.
+  Generally the two players would amass armies of -~15 or so units, and by that time it was not 
+  feasibly possible to kill fast enough.
+--So the 8 move cap was taken out. Game moved more smoothly. Having a monk - dominated army was 
+  the favored "meta." Monks could effectively "transfer" their movement points to monk "chains,"
+  each passing on and moving together. A sole archer could effectively hit multiple times if it 
+  was buried inside monks. Tried many "counterpicks" to take out archer, such as ninja/swordsman
+  comps, but it wasn't as good as just pure monks+ archers. Archers' damage nerfed significantly,
+  puts them more into a "weaken the enemy" for the melee.
+--Archer/monk comps still strong, but the key is due to the monks, not the archers. Due to the 
+  nature of balanced units, even a lv 9 promoted yokai will fall to a few well utilized counters.
+  Monk's exhaust-healing is removed. Heal amount is 25.
+--There needs to be objectives that increase income. Atm, with unlimited building, there's no 
+  "significant" reason to capture barracks, besides a (slightly) more convenient location of units.
+  Barracks must affect the # of units produced, but there should be enough of them that capturing
+  one does not spell defeat. 
+--Farms are introduced as the primary way to get income in the game. They are controlled in the same
+  way barracks and castle are controlled, by "destroying" them first. The HP should be small, so there
+  are many farms spread throughout the map. By slowly controlling farms you increase production and 
+  quality of units purchased.
+--Adjusting the costs of units is very hard since they're all balanced relative to each other. A lv9
+  Yokai Archer will fall quickly to ninja/cavalry rushes. In that regard, it's great, but the problem
+  is setting the costs for each unit. Imo, there should be another weaker tier of units, similar to
+  peasants  in shogun. Within the peasant class of say, 4 units, they're balanced with respect to each
+  other and have similar costs. Then in the higher samurai class of X units, they're also balanced and
+  have similar costs. The reason is that there needs to be a spammable "base" unit in the game that the
+  armies are comprised of, which will allow the balancing to be much easier, to compare damages to the
+  cheap, base unit.
+--The map needs to be much bigger. 13x20 atm, should be 30x30 at least.
