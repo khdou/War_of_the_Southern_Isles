@@ -1739,6 +1739,32 @@ function makeBoard(row, col)
 	array[9][8][0] = makeTerrain("farm", 3, 1)
 	array[9][11][0] = makeTerrain("farm", 3, 1)
 	
+	array[15][8][0] = makeTerrain("farm", 3, 1)
+	array[17][8][0] = makeTerrain("farm", 3, 1)
+	array[15][11][0] = makeTerrain("farm", 3, 1)
+	array[17][11][0] = makeTerrain("province", 3, 1)
+	array[19][8][0] = makeTerrain("farm", 3, 1)
+	array[19][11][0] = makeTerrain("province", 3, 1)
+	array[21][8][0] = makeTerrain("farm", 3, 1)
+	array[21][11][0] = makeTerrain("farm", 3, 1)
+
+	array[3][21][0] = makeTerrain("farm", 3, 1)
+	array[5][21][0] = makeTerrain("farm", 3, 1)
+	array[3][18][0] = makeTerrain("farm", 3, 1)
+	array[5][18][0] = makeTerrain("province", 3, 1)
+	array[7][21][0] = makeTerrain("farm", 3, 1)
+	array[7][18][0] = makeTerrain("province", 3, 1)
+	array[9][21][0] = makeTerrain("farm", 3, 1)
+	array[9][18][0] = makeTerrain("farm", 3, 1)
+	
+	array[15][21][0] = makeTerrain("farm", 3, 1)
+	array[17][21][0] = makeTerrain("farm", 3, 1)
+	array[15][18][0] = makeTerrain("farm", 3, 1)
+	array[17][18][0] = makeTerrain("province", 3, 1)
+	array[19][21][0] = makeTerrain("farm", 3, 1)
+	array[19][18][0] = makeTerrain("province", 3, 1)
+	array[21][21][0] = makeTerrain("farm", 3, 1)
+	array[21][18][0] = makeTerrain("farm", 3, 1)
 	return array
 end
 
